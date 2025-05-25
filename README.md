@@ -36,7 +36,7 @@
 
   <h3 align="center">Languages</h3>
     <img src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white" alt="JAVA" />
-    <img src="https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/html5-3670A0?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/css3-%230175C2.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript" alt="JS" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
