@@ -28,7 +28,7 @@
 
   <br>
 
-  <h3 align="center">Hosting/SaaS & VM</h3>
+  <h3 align="center">Hosting</h3>
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
